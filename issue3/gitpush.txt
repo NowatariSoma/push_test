@@ -1,0 +1,1 @@
+$git push origin <branch名> をはじめにしておくだけで次から$git pushをすれば変更内容を良しなにremote repojitoryに適応してくれるらしい．
